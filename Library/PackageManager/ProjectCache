@@ -5,27 +5,27 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638632986900000000
-    m_Hash: 1616676489
+      ticks: 638725462610000000
+    m_Hash: 2587877865
   m_LockFileStatus:
     m_FilePath: /Users/game12/2D adventure game/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638632986900000000
-    m_Hash: 3027023475
+      ticks: 638725462610000000
+    m_Hash: 2841861411
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.unity.2d.animation@5.2.6
+    - packageId: com.unity.2d.animation@5.2.7
       testable: 0
       isDirectDependency: 1
-      version: 5.2.6
+      version: 5.2.7
       source: 1
-      resolvedPath: /Users/game12/2D adventure game/Library/PackageCache/com.unity.2d.animation@5.2.6
+      resolvedPath: /Users/game12/2D adventure game/Library/PackageCache/com.unity.2d.animation@5.2.7
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -140,6 +140,7 @@ m_PackageAssets:
         - 7.0.13
         - 7.1.0
         - 7.1.1
+        - 7.1.2
         - 8.0.0-pre.3
         - 8.0.0-pre.4
         - 8.0.0
@@ -158,6 +159,7 @@ m_PackageAssets:
         - 9.1.0
         - 9.1.1
         - 9.1.2
+        - 9.1.3
         - 10.0.0-pre.1
         - 10.0.0-pre.2
         - 10.0.0
@@ -168,6 +170,7 @@ m_PackageAssets:
         - 10.1.1
         - 10.1.2
         - 10.1.3
+        - 10.1.4
         compatible:
         - 5.2.0
         - 5.2.1
@@ -222,13 +225,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 638034320710000000
-      documentationUrl: 
+      datePublishedTicks: 638179396900000000
+      documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.animation@5.2/manual/index.html
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: a9671686b9de6dea33e57b306295bc63aacdb1ed
+        revision: aa2a8793fe6f8a4b07feb9f612a1ddfd1602413e
         path: 
     - packageId: com.unity.2d.pixel-perfect@4.0.1
       testable: 0
@@ -410,6 +413,7 @@ m_PackageAssets:
         - 9.0.1
         - 9.0.2
         - 9.0.3
+        - 10.0.0
         compatible:
         - 4.3.0
         - 4.3.1
@@ -437,7 +441,7 @@ m_PackageAssets:
       - name: com.unity.modules.uielementsnative
         version: 1.0.0
       - name: com.unity.2d.animation
-        version: 5.2.6
+        version: 5.2.7
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.modules.animation
@@ -621,6 +625,7 @@ m_PackageAssets:
         - 9.0.2
         - 9.0.3
         - 9.0.4
+        - 9.0.5
         - 10.0.0-pre.1
         - 10.0.0-pre.2
         - 10.0.0
@@ -630,6 +635,7 @@ m_PackageAssets:
         - 10.0.4
         - 10.0.5
         - 10.0.6
+        - 10.0.7
         compatible:
         - 5.3.0
         verified: 5.3.0
@@ -840,6 +846,7 @@ m_PackageAssets:
         - 2.4.4
         - 2.5.1
         - 2.5.2
+        - 2.6.0
         compatible:
         - 1.17.6
         - 1.17.7
@@ -967,6 +974,7 @@ m_PackageAssets:
         - 3.0.27
         - 3.0.28
         - 3.0.31
+        - 3.0.34
         compatible:
         - 1.0.2
         - 1.0.6
@@ -1011,7 +1019,8 @@ m_PackageAssets:
         - 3.0.27
         - 3.0.28
         - 3.0.31
-        verified: 3.0.31
+        - 3.0.34
+        verified: 3.0.34
       dependencies:
       - name: com.unity.ext.nunit
         version: 1.0.6
@@ -1291,6 +1300,7 @@ m_PackageAssets:
         - 1.10.0
         - 1.11.0
         - 1.11.1
+        - 1.11.2
         compatible:
         - 0.1.2-preview
         - 0.2.0-preview
@@ -1342,6 +1352,7 @@ m_PackageAssets:
         - 1.10.0
         - 1.11.0
         - 1.11.1
+        - 1.11.2
         verified: 1.4.4
       dependencies:
       - name: com.unity.modules.uielements
@@ -1653,6 +1664,7 @@ m_PackageAssets:
         - 3.2.0-pre.8
         - 3.2.0-pre.9
         - 3.2.0-pre.10
+        - 3.2.0-pre.11
         - 4.0.0-pre.1
         - 4.0.0-pre.2
         compatible:
@@ -1969,6 +1981,238 @@ m_PackageAssets:
         type: 
         url: 
         revision: 
+        path: 
+    - packageId: com.unity.ui@1.0.0-preview.18
+      testable: 0
+      isDirectDependency: 1
+      version: 1.0.0-preview.18
+      source: 1
+      resolvedPath: /Users/game12/2D adventure game/Library/PackageCache/com.unity.ui@1.0.0-preview.18
+      assetPath: Packages/com.unity.ui
+      name: com.unity.ui
+      displayName: UI Toolkit
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: asset
+      description: "UI Toolkit is a set of features, resources and tools for developing
+        user interfaces (UI). Use it to develop custom UI and extensions for the
+        Unity Editor, runtime debugging tools, and runtime UI for games and applications.\r\n\r\nUI
+        Toolkit includes:\r\n\r\n\u25AA A retained-mode UI system, based on recognized
+        web technologies, that supports stylesheets, and dynamic and contextual event
+        handling.\r\n\u25AA UXML and USS asset types for building and styling user
+        interfaces. These are inspired by standard web technologies such as XML,
+        HTML, and CSS.\r\n\u25AA Tools and resources such as a built-in UI debugger,
+        the support for the UI Builder visual UI authoring tool*, and examples available
+        in the editor.\r\n\r\n*Available via the com.unity.ui.builder package"
+      status: 0
+      errors: []
+      versions:
+        all:
+        - 1.0.0-preview.3
+        - 1.0.0-preview.6
+        - 1.0.0-preview.7
+        - 1.0.0-preview.8
+        - 1.0.0-preview.9
+        - 1.0.0-preview.11
+        - 1.0.0-preview.12
+        - 1.0.0-preview.13
+        - 1.0.0-preview.14
+        - 1.0.0-preview.15
+        - 1.0.0-preview.16
+        - 1.0.0-preview.17
+        - 1.0.0-preview.18
+        compatible:
+        - 1.0.0-preview.3
+        - 1.0.0-preview.6
+        - 1.0.0-preview.7
+        - 1.0.0-preview.8
+        - 1.0.0-preview.9
+        - 1.0.0-preview.11
+        - 1.0.0-preview.12
+        - 1.0.0-preview.13
+        - 1.0.0-preview.14
+        - 1.0.0-preview.15
+        - 1.0.0-preview.16
+        - 1.0.0-preview.17
+        - 1.0.0-preview.18
+        verified: 
+      dependencies:
+      - name: com.unity.textcore
+        version: 1.0.0-preview.3
+      - name: com.unity.modules.uielementsnative
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.textcore
+        version: 1.0.0-preview.3
+      - name: com.unity.modules.uielementsnative
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      keywords:
+      - UI
+      - UIElements
+      - Runtime UI
+      - Editor UI
+      - UI Toolkit
+      - Toolkit
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+        configSource: 0
+      hasRegistry: 1
+      hideInEditor: 0
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637692427210000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.com/Unity-Technologies/com.unity.ui.git
+        revision: e8edeaacbd151249d01c1185b8503e605dca062b
+        path: 
+    - packageId: com.unity.ui.builder@1.0.0-preview.18
+      testable: 0
+      isDirectDependency: 1
+      version: 1.0.0-preview.18
+      source: 1
+      resolvedPath: /Users/game12/2D adventure game/Library/PackageCache/com.unity.ui.builder@1.0.0-preview.18
+      assetPath: Packages/com.unity.ui.builder
+      name: com.unity.ui.builder
+      displayName: UI Builder
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: tool
+      description: 'The UI Builder lets you visually create and edit UI assets such
+        as UI documents (.uxml files), and stylesheets (.uss files), that you use
+        with Unity''s UI Toolkit (formerly UIElements).
+
+
+        To open the UI
+        Builder window, select Window > UI Toolkit > UI Builder from the menu.
+
+
+        Note:
+        In Unity 2019.x, you open the UI Builder from the Window > UI > UI Builder
+        menu.
+
+
+        Note: UI Builder is the visual authoring tool for UI Toolkit.
+        It does not include runtime support. To enable runtime support in Unity 2020.1
+        and later, install the UI Toolkit package. For details, please see the UI
+        Builder package documentation.'
+      status: 0
+      errors: []
+      versions:
+        all:
+        - 0.5.7-preview
+        - 0.5.8-preview
+        - 0.6.1-preview
+        - 0.6.2-preview
+        - 0.7.0-preview
+        - 0.8.0-preview
+        - 0.8.1-preview
+        - 0.8.2-preview
+        - 0.8.3-preview
+        - 0.8.4-preview
+        - 0.9.0-preview
+        - 0.10.0-preview
+        - 0.10.1-preview
+        - 0.10.2-preview
+        - 0.11.0-preview
+        - 0.11.1-preview
+        - 0.11.2-preview
+        - 1.0.0-preview.1
+        - 1.0.0-preview.2
+        - 1.0.0-preview.3
+        - 1.0.0-preview.4
+        - 1.0.0-preview.5
+        - 1.0.0-preview.6
+        - 1.0.0-preview.7
+        - 1.0.0-preview.9
+        - 1.0.0-preview.10
+        - 1.0.0-preview.11
+        - 1.0.0-preview.12
+        - 1.0.0-preview.13
+        - 1.0.0-preview.14
+        - 1.0.0-preview.15
+        - 1.0.0-preview.16
+        - 1.0.0-preview.17
+        - 1.0.0-preview.18
+        compatible:
+        - 0.5.7-preview
+        - 0.5.8-preview
+        - 0.6.1-preview
+        - 0.6.2-preview
+        - 0.7.0-preview
+        - 0.8.0-preview
+        - 0.8.1-preview
+        - 0.8.2-preview
+        - 0.8.3-preview
+        - 0.8.4-preview
+        - 0.9.0-preview
+        - 0.10.0-preview
+        - 0.10.1-preview
+        - 0.10.2-preview
+        - 0.11.0-preview
+        - 0.11.1-preview
+        - 0.11.2-preview
+        - 1.0.0-preview.1
+        - 1.0.0-preview.2
+        - 1.0.0-preview.3
+        - 1.0.0-preview.4
+        - 1.0.0-preview.5
+        - 1.0.0-preview.6
+        - 1.0.0-preview.7
+        - 1.0.0-preview.9
+        - 1.0.0-preview.10
+        - 1.0.0-preview.11
+        - 1.0.0-preview.12
+        - 1.0.0-preview.13
+        - 1.0.0-preview.14
+        - 1.0.0-preview.15
+        - 1.0.0-preview.16
+        - 1.0.0-preview.17
+        - 1.0.0-preview.18
+        verified: 
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+        configSource: 0
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637696476350000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.ui.builder.git
+        revision: 544b3f4e85943bedbbcff734995e7b2a0ad85f9f
         path: 
     - packageId: com.unity.modules.ai@1.0.0
       testable: 0
@@ -3745,6 +3989,59 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
+    - packageId: com.unity.textcore@1.0.0-preview.3
+      testable: 0
+      isDirectDependency: 0
+      version: 1.0.0-preview.3
+      source: 1
+      resolvedPath: /Users/game12/2D adventure game/Library/PackageCache/com.unity.textcore@1.0.0-preview.3
+      assetPath: Packages/com.unity.textcore
+      name: com.unity.textcore
+      displayName: TextCore
+      author:
+        name: 
+        email: 
+        url: 
+      category: Text Rendering
+      type: asset
+      description: TextCore is the new and improved text parser and layout engine
+        currently used by UI Toolkit and in some future release of the TextMeshPro
+        package.
+      status: 0
+      errors: []
+      versions:
+        all:
+        - 1.0.0-preview.2
+        - 1.0.0-preview.3
+        compatible:
+        - 1.0.0-preview.2
+        - 1.0.0-preview.3
+        verified: 
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - TextCore
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+        configSource: 0
+      hasRegistry: 1
+      hideInEditor: 0
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637631004000000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/com.unity.ui.git
+        revision: 6bcf1123b23a3eb4b88d6dd1225ae9c3a6015088
+        path: 
     - packageId: com.unity.ext.nunit@1.0.6
       testable: 0
       isDirectDependency: 0
@@ -3869,6 +4166,7 @@ m_PackageAssets:
         - 1.12.4
         - 1.12.5
         - 1.13.0
+        - 1.14.0
         compatible:
         - 1.0.1
         - 1.1.0-pre.7
@@ -4142,6 +4440,7 @@ m_PackageAssets:
         - 6.0.5
         - 6.0.6
         - 6.0.7
+        - 6.0.8
         - 7.0.0-pre.3
         - 7.0.0-pre.4
         - 7.0.0
@@ -4154,6 +4453,7 @@ m_PackageAssets:
         - 8.0.1
         - 8.0.2
         - 8.0.3
+        - 8.0.4
         - 9.0.0-pre.1
         - 9.0.0-pre.2
         - 9.0.0
@@ -4163,6 +4463,7 @@ m_PackageAssets:
         - 9.0.4
         - 9.0.5
         - 9.0.6
+        - 9.0.7
         compatible:
         - 4.2.0
         - 4.2.1
